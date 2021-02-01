@@ -23,7 +23,6 @@
 [<img align="left" alt="HTML5" width="40px" src="https://miro.medium.com/max/8642/1*iIXOmGDzrtTJmdwbn7cGMw.png" />][java]
 [<img align="left" alt="CSS3" width="26px" src="https://www.python.org/static/opengraph-icon-200x200.png" />][python]
 [<img align="left" alt="Sass" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png" />][sklearn]
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][jsplaylist]
 [<img align="left" alt="Sass" width="65px" src="https://miro.medium.com/max/600/1*HLziSq4zU8TNCNJBuuQQVw.jpeg" />][tf]
 
 
