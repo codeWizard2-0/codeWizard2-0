@@ -35,19 +35,13 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Bibek's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=bekiekB1&show_icons=true&hide_border=true" />
+  <img align="left" alt="Bishwo's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeWizard2-0&show_icons=true&hide_border=true" />
 
 </details>
 
 [pytorch]: https://pytorch.org/
-[website]: https://codeSTACKr.com
-[course]: http://vsCodeHero.com
-[twitter]: https://twitter.com/codeSTACKr
-[youtube]: https://youtube.com/codeSTACKr
-[instagram]: https://instagram.com/codeSTACKr
 [linkedin]: https://www.linkedin.com/in/bishwodeep-karki-1a3b69134/
 [java]: https://www.java.com/en/list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
-[jsplaylist]: https://www.javascript.com/list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
 [python]: https://www.python.org
 [sklearn]: https://scikit-learn.org/stable/
 [tf]: https://www.tensorflow.org/
